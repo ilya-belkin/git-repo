@@ -25,7 +25,7 @@
                 <td class="style1">
                     Login</td>
                 <td class="style2">
-                    <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+                    <asp:TextBox ID="TextBox1" runat="server" Width="156px"></asp:TextBox>
                 </td>
                 <td>
                     &nbsp;</td>
@@ -34,7 +34,7 @@
                 <td class="style1">
                     Password</td>
                 <td class="style2">
-                    <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
+                    <asp:TextBox ID="TextBox2" runat="server" Width="154px"></asp:TextBox>
                 </td>
                 <td>
                     <asp:Button ID="Button1" runat="server" onclick="Button1_Click" Text="OK" />
